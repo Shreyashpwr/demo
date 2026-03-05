@@ -1,2 +1,3 @@
-# demo
-for tutorial
+# New Project
+
+This project was created from local window
